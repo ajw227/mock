@@ -1,0 +1,72 @@
+[
+    {
+        "genre": "MMORPG",
+        "link_url": "https://lostark.game.onstove.com/Promotion/Update/200929",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020092901/pc_screenshot_lostark_1601341469.jpg",
+        "rank": 1,
+        "title": "로스트아크"
+    },
+    {
+        "genre": "CasualAction",
+        "link_url": "https://page.onstove.com/supertankblitz/kr",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020062513/%3F%3F%3F%3F%3F3_1593090502.png",
+        "rank": 2,
+        "title": "슈퍼탱크블리츠"
+    },
+    {
+        "genre": "Racing",
+        "link_url": "https://tr.game.onstove.com/index.asp",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020042802/pc_screenshot_tr_1588040831.jpg",
+        "rank": 3,
+        "title": "테일즈런너"
+    },
+    {
+        "genre": "덱빌딩 턴제 RPG",
+        "link_url": "https://gamestore.onstove.com/1029?item_id=legendofkeepers",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020092404/%5B%3F%3F%3F%3F%5Ditsatrap_01_1600920455.gif",
+        "rank": 4,
+        "title": "레전드 오브 키퍼"
+    },
+    {
+        "genre": "RPG",
+        "link_url": "https://gamestore.onstove.com/1022?item_id=DODK",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020081304/thumb_hover_224x132_1597291586.gif",
+        "rank": 5,
+        "title": "던전오브드래곤나이트"
+    },
+    {
+        "genre": "시뮬레이션",
+        "link_url": "https://gamestore.onstove.com/1027?item_id=CoffeeTalk",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020073006/coffeeTalk_small_1596091605.gif",
+        "rank": 6,
+        "title": "Coffee Talk"
+    },
+    {
+        "genre": "어드벤처",
+        "link_url": "https://gamestore.onstove.com/1023?item_id=Rain_World",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020062403/pk_screenshot_rainworld_1592967817.gif",
+        "rank": 7,
+        "title": "Rain Wrold"
+    },
+    {
+        "genre": "어드벤처",
+        "link_url": "https://gamestore.onstove.com/1024?item_id=Neversong",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020070205/NEVERSONG_1593667356.gif",
+        "rank": 8,
+        "title": "Neversong"
+    },
+    {
+        "genre": "FPS",
+        "link_url": "https://gamestore.onstove.com/1003?item_id=PREONE",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020042722/pk_screenshot_PREONE_1588026262.jpg",
+        "rank": 9,
+        "title": "PRE:ONE"
+    },
+    {
+        "genre": "RPG",
+        "link_url": "https://gamestore.onstove.com/1004?item_id=FAIRYKNIGHTS",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020042722/pk_screenshot_FairyKnights_1588026021.jpg",
+        "rank": 10,
+        "title": "Fairy Knights"
+    }
+]
