@@ -1,0 +1,20 @@
+[
+    {
+        "genre": "MMORPG",
+        "link_url": "https://lostark.game.onstove.com/Promotion/Update/200929",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020081120/135_135_1597177586.png",
+        "title": "로스트아크"
+    },
+    {
+        "genre": "CasualAction",
+        "link_url": "https://page.onstove.com/supertankblitz/kr",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2020072708/%3F%3F%3F_%3F%3F%3F%3F_135x135_1595840352.jpg",
+        "title": "슈퍼탱크블리츠"
+    },
+    {
+        "genre": "Racing",
+        "link_url": "https://tr.game.onstove.com/index.asp",
+        "image_url": "https://d3kxs6kpbh59hp.cloudfront.net/community_admin/2019120320/CP_thumnail_TR_L2_1575404322.jpg",
+        "title": "테일즈런너"
+    }
+]
