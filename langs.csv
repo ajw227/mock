@@ -1,5 +1,5 @@
 str,en_US,ar_DZ,de_DE,ru_RU
-title,Hello,السلام,Hallo,Привет!
+title,Hello!@#$%,السلام,Hallo,Привет!
 msg,Hello {} in the {} world ,السلام عليكم يا {} في عالم {},Hallo {} in der {} welt ,Привет! {} добро пожаловать {} мир! 
 msg_named,{} are written in the {lang} language,{} مكتوبة باللغة {lang},{} ist in {lang} geschrieben,{} написан на языке {lang}
 clickMe,Click me,إضغط هنا,Click mich,Нажми на меня
