@@ -1,0 +1,14 @@
+{
+    "en_US": {
+      "hello": "Hello World",
+      "map": "Map",
+      "more": "More",
+      "home": "Home",
+    },
+    "de_DE": {
+      "hello": "Hallo Welt",
+      "map": "Karte",
+      "more": "Mehr",
+      "home": "Zuhause",
+    }
+}
